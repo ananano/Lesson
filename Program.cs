@@ -11,6 +11,8 @@ namespace test
             y = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(x + y);
             Console.WriteLine(x - y);
+            Console.WriteLine(x * y);
+            Console.WriteLine(x / y);
         }
     }
 }
