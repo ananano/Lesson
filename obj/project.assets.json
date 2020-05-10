@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lesson\\test\\test.csproj",
+      "projectUniqueName": "D:\\Lesson\\test.csproj",
       "projectName": "test",
-      "projectPath": "D:\\Lesson\\test\\test.csproj",
+      "projectPath": "D:\\Lesson\\test.csproj",
       "packagesPath": "C:\\Users\\Nassik\\.nuget\\packages\\",
-      "outputPath": "D:\\Lesson\\test\\obj\\",
+      "outputPath": "D:\\Lesson\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nassik\\AppData\\Roaming\\NuGet\\NuGet.Config",
