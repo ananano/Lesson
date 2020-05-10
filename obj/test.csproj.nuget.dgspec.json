@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lesson\\test.csproj": {}
+    "D:\\test\\Lesson\\test.csproj": {}
   },
   "projects": {
-    "D:\\Lesson\\test.csproj": {
+    "D:\\test\\Lesson\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lesson\\test.csproj",
+        "projectUniqueName": "D:\\test\\Lesson\\test.csproj",
         "projectName": "test",
-        "projectPath": "D:\\Lesson\\test.csproj",
+        "projectPath": "D:\\test\\Lesson\\test.csproj",
         "packagesPath": "C:\\Users\\Nassik\\.nuget\\packages\\",
-        "outputPath": "D:\\Lesson\\obj\\",
+        "outputPath": "D:\\test\\Lesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nassik\\AppData\\Roaming\\NuGet\\NuGet.Config",
