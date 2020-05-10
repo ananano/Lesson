@@ -10,6 +10,7 @@ namespace test
             x = Convert.ToInt32(Console.ReadLine());
             y = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(x + y);
+            Console.WriteLine(x - y);
         }
     }
 }
